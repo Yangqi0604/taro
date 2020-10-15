@@ -2,7 +2,7 @@
  * @Author: YangQi
  * @Date: 2020-10-15 15:37:52
  * @LastEditors: YangQi
- * @LastEditTime: 2020-10-15 22:47:56
+ * @LastEditTime: 2020-10-15 22:54:04
  */
 import Taro, { Component } from '@tarojs/taro';
 import { View } from '@tarojs/components';
@@ -21,7 +21,6 @@ export default class Mine extends Component {
 
   };
   handleClick = () => {
-    console.log(1)
     console.log(this.props.dataList)
   }
   render() {
