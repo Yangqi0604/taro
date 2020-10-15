@@ -1,7 +1,11 @@
+<!--
+ * @Author: YangQi
+ * @Date: 2020-10-15 15:30:51
+ * @LastEditors: YangQi
+ * @LastEditTime: 2020-10-15 22:45:40
+-->
 # 整合 taro-dvajs
 
-
-本项目整合了taro 和 dvajs,页面代码来自  [仿知乎小程序](https://github.com/NervJS/taro-zhihu-sample)
 
 
 相关框架内容请去官网
@@ -35,21 +39,5 @@ yarn run dev:weapp
 ```
 
 ### 4. 使用小程序开发工具打开dist 目录
-
-
-## 已知问题
-
-在h5端的上下拉刷新实现有问题
-
-
-我的blog地址: <https://www.forkjoin.org>
-
-关注我的微信公众号:
-
-![小草的泡码笔记](https://www.forkjoin.org/images/wxqrcode.jpg )
-
-开发QQ群 173103450
-微信群：
-
 
 
